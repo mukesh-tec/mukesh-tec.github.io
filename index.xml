@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mukesh Blog</title>
+    <link>https://mukesh-tec.github.io/</link>
+    <description>Recent content on Mukesh Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mukesh-tec.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://mukesh-tec.github.io/post/first/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mukesh-tec.github.io/post/first/</guid>
+      <description>first blog first blog.. first blog&amp;hellip; mukesh</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mukesh-tec.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mukesh-tec.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
+    </item>
+    
+  </channel>
+</rss>
